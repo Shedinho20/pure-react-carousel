@@ -63,7 +63,7 @@ export default () => (
           kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet.
         </p>
       </Slide>
-      <Slide index={2}>
+      <Slide index={3}>
         <h1>This is a test slide to demonstrate, how this affects height</h1>
         <p>
           lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
